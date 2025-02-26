@@ -11,8 +11,5 @@ This repository was created to serve as a central hub for our **Data Science** c
 - Experiment with **machine learning models, data visualization, and statistical analysis** as part of our learning process.  
 
 ## Content  
-📂 **Notebooks/** – Jupyter Notebooks covering lectures, exercises, and hands-on projects.  
+📂 **Lectures/** – Jupyter Notebooks covering lectures, exercises, and hands-on projects.  
 📂 **Data/** – Relevant datasets used for analysis and model training.  
-📂 **Project/** – Our main Data Science project, focusing on analytical and predictive modeling.  
-
-Stay tuned for updates as we continue to develop and refine our work! 🚀  
